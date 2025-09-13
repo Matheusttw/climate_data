@@ -1,0 +1,5 @@
+# Dependências para a Aplicação de Análise de Dados Climáticos
+
+pandas
+numpy
+matplotlib

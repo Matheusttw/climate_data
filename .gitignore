@@ -1,0 +1,38 @@
+# Arquivo .gitignore para projetos Python
+
+# Ambientes Virtuais
+# Ignora a pasta do ambiente virtual para evitar enviar centenas de arquivos de bibliotecas.
+venv/
+env/
+*.env
+.venv
+
+# Cache e Bytecode do Python
+# Arquivos gerados automaticamente pelo interpretador Python.
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Pastas de distribuição e instalação
+# Geradas por ferramentas como PyInstaller ou setuptools.
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Arquivos de IDE e Editores
+# Configurações específicas do ambiente de desenvolvimento de cada pessoa.
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Arquivos de Sistema Operacional
+# Metadados de sistema que não pertencem ao projeto.
+.DS_Store
+Thumbs.db
+
+# Logs e bancos de dados locais
+*.log
+*.sqlite3
