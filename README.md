@@ -53,7 +53,7 @@ Siga os passos abaixo para ter a aplicação rodando em sua máquina.
 
 ### 1. Clone o Repositório
 ```bash
-git clone [https://github.com/SEU_USUARIO/NOME_DO_SEU_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_SEU_REPOSITORIO.git)
+git clone [https://github.com/Matheusttw/climate_data.git](https://github.com/SEU_USUARIO/NOME_DO_SEU_REPOSITORIO.git)
 cd NOME_DO_SEU_REPOSITORIO
 ```
 
